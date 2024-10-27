@@ -1,0 +1,135 @@
+[[sshpass]]
+arch = "aarch64"
+git-tree-sha1 = "c6008545ebda16bc67df36de0cbd307cefa0651a"
+os = "macos"
+
+    [[sshpass.download]]
+    sha256 = "82efb8aa487926a026a63c67e68361442303b54d659185f99828d80663a95c7a"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.aarch64-apple-darwin.tar.gz"
+[[sshpass]]
+arch = "aarch64"
+git-tree-sha1 = "34cbbe4e2523705b5fc31c70b6d82de4de226d1b"
+libc = "glibc"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "db81c65ba47601143c30e9931ea607b7aa4b6664ec9b48e226c011e1538e23a3"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.aarch64-linux-gnu.tar.gz"
+[[sshpass]]
+arch = "aarch64"
+git-tree-sha1 = "b0649e027acf48fa80ac56894bb78a8ac910c913"
+libc = "musl"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "3a91e4a529b599e0b4cda1d2c046ab31681128ddb47ecf8df82e9b5f35413a8a"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.aarch64-linux-musl.tar.gz"
+[[sshpass]]
+arch = "aarch64"
+git-tree-sha1 = "c09187eaee1f84d64bc93e076a5a50f52f50286c"
+os = "freebsd"
+
+    [[sshpass.download]]
+    sha256 = "a4518c117401439015709a548e3ff796c84efce10cc4cdcc66ba22167a157de5"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.aarch64-unknown-freebsd.tar.gz"
+[[sshpass]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fa650f79056fc1e3e4a2d04159cfa37831d69db9"
+libc = "glibc"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "ecd01588b4425c2f8c92ad6a06e16cd917cb69b804c00f66f29d80219b3bb3e4"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.armv6l-linux-gnueabihf.tar.gz"
+[[sshpass]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fc8d5206801ddd35b6d89d27cdbb9094ce24574e"
+libc = "musl"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "44ff9e7b741c6d19dbad9ed72d41c214e16ef86f04fdd3ced1499af7e3ea0356"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.armv6l-linux-musleabihf.tar.gz"
+[[sshpass]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "542708f1f18340eddf2ef843a50cece7750d7b48"
+libc = "glibc"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "bccfdfbed95a0e81c013419438d89f27bc3bbedfe1e61144a15b63e2857c77dc"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.armv7l-linux-gnueabihf.tar.gz"
+[[sshpass]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "43f43e416b32062e46b79e4dd319f2a1752f9e58"
+libc = "musl"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "d8d19dc3d2a62430f4fdb200163c5b2c22cc2775b02c96e600ed8bd5dd9e482b"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.armv7l-linux-musleabihf.tar.gz"
+[[sshpass]]
+arch = "i686"
+git-tree-sha1 = "9871be10d47fdeccf9cee02577bb8d78d3c0cc2f"
+libc = "glibc"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "13e60393e81cf58c3eb101dce3ad7f0dd1edc782938eee4d420cfc86a3545d72"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.i686-linux-gnu.tar.gz"
+[[sshpass]]
+arch = "i686"
+git-tree-sha1 = "abddabff51f847fa7ab28b85f8916867acacabd0"
+libc = "musl"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "3ee8796a837c062c8d941cf5500d777c999454bb64afcc73694a0802ed6fae9d"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.i686-linux-musl.tar.gz"
+[[sshpass]]
+arch = "powerpc64le"
+git-tree-sha1 = "494a1e392a74a50e9f8597745f0ddbbfa5eea0e6"
+libc = "glibc"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "236912a8ecfad14801c6aba035076f4d7a8f64227455e199b42b9963150bef26"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.powerpc64le-linux-gnu.tar.gz"
+[[sshpass]]
+arch = "x86_64"
+git-tree-sha1 = "6253a1302dd7001ced3895f042319248096f1582"
+os = "macos"
+
+    [[sshpass.download]]
+    sha256 = "6060064d62e55397165b61b559488bf82a224938541fc49674d40f5f76346519"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.x86_64-apple-darwin.tar.gz"
+[[sshpass]]
+arch = "x86_64"
+git-tree-sha1 = "a02de4b91d2e2951dbd1e70f58b05814b824a9b4"
+libc = "glibc"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "21e9c079c2d5c5934b7a756042670f184d897f918bf332eac2005dd5f7ba6a69"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.x86_64-linux-gnu.tar.gz"
+[[sshpass]]
+arch = "x86_64"
+git-tree-sha1 = "c08edf3ceee30e5df853b9c2ef3119ff68fa08d0"
+libc = "musl"
+os = "linux"
+
+    [[sshpass.download]]
+    sha256 = "09e9b875a05b7ff6e8c89d6fcf48d8f1606e11a859c5f7ec95853d7df94a2374"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.x86_64-linux-musl.tar.gz"
+[[sshpass]]
+arch = "x86_64"
+git-tree-sha1 = "5a3fd5b799ab44c833901156aca6a9bdebd5e2fe"
+os = "freebsd"
+
+    [[sshpass.download]]
+    sha256 = "7d025893a1061c81d487dc181f9a282120a7af752505273866911d84c72cef87"
+    url = "https://github.com/JuliaBinaryWrappers/sshpass_jll.jl/releases/download/sshpass-v1.10.0+0/sshpass.v1.10.0.x86_64-unknown-freebsd.tar.gz"
